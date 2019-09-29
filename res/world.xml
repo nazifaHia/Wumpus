@@ -1,0 +1,47 @@
+<WumpusWorld>
+    
+    <BoardSize>10</BoardSize>
+    
+    <AgentPosition>
+        <row>2</row>
+        
+        <col>3</col>
+    </AgentPosition>
+    
+    <GoldPosition>
+        <row>3</row>
+        
+        <col>5</col>
+    </GoldPosition>
+    
+    <WumpusPosition>
+        <row> 1 </row>
+        
+        <col> 0 </col>
+    </WumpusPosition>
+    
+    <PitPosition>
+        <row> 0 </row>
+        
+        <col> 3 </col>
+    </PitPosition>
+    <PitPosition>
+    	<row>3</row>
+    	<col>2</col></PitPosition>
+
+    <PitPosition>
+        <row> 1 </row>
+        
+        <col> 2 </col>
+    </PitPosition>
+    
+    <PitPosition>
+        <row> 3 </row>
+        
+        <col> 2 </col>
+    </PitPosition>
+    <GoldPosition>
+    	<row>2</row>
+    	<col>5</col></GoldPosition>
+
+</WumpusWorld>
